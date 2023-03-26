@@ -80,3 +80,25 @@ p{
     color: #707070;
     font-weight: 400;
 }
+
+
+@media (max-width: 768px) {
+    hr {
+        width: 60%;
+    }
+    .main {
+        width: 100%;
+    }
+}
+  
+@media (max-width: 400px) {
+    .heading {
+        font-size: 60px;
+    }
+    hr {
+        width: 75%;
+    }
+    #finalAmount h2, .finalValue {
+        font-size: 40px;
+    }
+}
