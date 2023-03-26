@@ -13,7 +13,7 @@ body{
     font-family: 'Pacifico', cursive;
     margin: 50px auto 20px;
     text-align: center;
-    text-size: 40px;
+    font-size: 22px;
 }
 .container{
     width: 40%;
