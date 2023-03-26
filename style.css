@@ -9,13 +9,13 @@ body{
     background-color: #fefbd8;
     text-align: center;
 }
+h1{
+    font-size: 22px;
+}
 .heading {
     font-family: 'Pacifico', cursive;
     margin: 50px auto 20px;
     text-align: center;
-}
-.h1{
-    font-size: 22px;
 }
 .container{
     width: 40%;
