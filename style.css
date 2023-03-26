@@ -7,15 +7,16 @@
 }
 body{
     background-color: #fefbd8;
-    text-align: center;
 }
 h1{
     font-size: 44px;
+    font-family: 'Pacifico', cursive;
 }
 .heading {
     font-family: 'Pacifico', cursive;
     margin: 50px auto 20px;
     text-align: center;
+    font-size: 44px;
 }
 .container{
     width: 40%;
