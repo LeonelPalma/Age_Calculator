@@ -7,15 +7,18 @@
 }
 body{
     background-color: #fefbd8;
+    text-align: center;
 }
 .heading {
     font-family: 'Pacifico', cursive;
-    margin: 35px auto 20px;
+    margin: 50px auto 20px;
+    text-align: center;
 }
 hr {
     border-top: 2px solid black;
     width: 40%;
     margin-bottom: 55px;
+    text-align: center;
 }
 .container{
     width: 40%;
