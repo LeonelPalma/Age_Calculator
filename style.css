@@ -8,6 +8,15 @@
 body{
     background-color: #fefbd8;
 }
+.heading {
+    font-family: 'Pacifico', cursive;
+    margin: 35px auto 20px;
+}
+hr {
+    border-top: 2px solid black;
+    width: 40%;
+    margin-bottom: 55px;
+}
 .container{
     width: 40%;
     min-width: 450px;
