@@ -13,12 +13,7 @@ body{
     font-family: 'Pacifico', cursive;
     margin: 50px auto 20px;
     text-align: center;
-}
-hr {
-    border-top: 2px solid black;
-    width: 40%;
-    margin-bottom: 55px;
-    text-align: center;
+    text-size: 40px;
 }
 .container{
     width: 40%;
@@ -82,26 +77,4 @@ p{
     font-size: 14px;
     color: #707070;
     font-weight: 400;
-}
-
-
-@media (max-width: 768px) {
-    hr {
-        width: 60%;
-    }
-    .main {
-        width: 100%;
-    }
-}
-  
-@media (max-width: 400px) {
-    .heading {
-        font-size: 60px;
-    }
-    hr {
-        width: 75%;
-    }
-    #finalAmount h2, .finalValue {
-        font-size: 40px;
-    }
 }
